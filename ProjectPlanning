@@ -1,0 +1,21 @@
+# Project Entities. Professional League of Legends players
+
+**Player**   **Role**    **Current Team**    **Previous Team**
+
+BrokenBlade  Top           G2                 *empty value*
+
+Yike        Jungle         G2                 *empty value*
+
+Caps        Mid            G2                 *empty value*
+
+Mikyx       Support        G2                 *empty value*
+
+HansSama    ADC            G2                 *empty value*
+
+Wunder      Top            Fnatic             *empty Value*
+## Three Questions/Use Cases 
+
+-Who is "x team" jungler?
+-What team does "x player" play for?
+-Who has jungled for "x team" historically?
+-Has "x player" ever played on the same team as "y player"?
