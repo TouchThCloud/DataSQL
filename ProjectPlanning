@@ -1,18 +1,18 @@
 # Project Entities. Professional League of Legends players
 
-**Player**   **Role**    **Current Team**    **Previous Team**
+**Player**   **Role**    **Current Team**    **Previous Team**       **Tournament Appearances**
 
-BrokenBlade  Top           G2                 *empty value*
+BrokenBlade  Top           G2                 *empty value*            7
 
-Yike        Jungle         G2                 *empty value*
+Yike        Jungle         G2                 *empty value*            3
 
-Caps        Mid            G2                 *empty value*
+Caps        Mid            G2                 *empty value*            15
 
-Mikyx       Support        G2                 *empty value*
+Mikyx       Support        G2                 *empty value*            6
 
-HansSama    ADC            G2                 *empty value*
+HansSama    ADC            G2                 *empty value*            8
 
-Wunder      Top            Fnatic             *empty Value*
+Wunder      Top            Fnatic             *empty Value*            10
 ## Three Questions/Use Cases 
 
 -Who is "x team" jungler?
